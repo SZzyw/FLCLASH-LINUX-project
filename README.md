@@ -3,6 +3,8 @@
 > 适用系统：Ubuntu 22.04+ / Debian 12+ / 任何 Linux x86_64 系统
 > 
 > **无需安装 Go、无需编译、开箱即用。**
+>
+> 源码地址：https://github.com/SZzyw/FLCLASH-LINUX
 
 ---
 
